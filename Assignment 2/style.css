@@ -1,0 +1,26 @@
+body{
+    background-image: url("background1.jpg"); 
+}
+
+#a{
+    background-color: blue;
+ 
+    padding: 5px;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+}
+#b {
+ 
+    width: 50%;
+    
+}
+#c {
+
+    width: 50%;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+}
